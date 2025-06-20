@@ -1,0 +1,3 @@
+#How to integrate paypal
+Ref URL: https://www.youtube.com/watch?v=u-iifIysIDA
+got to developer.paypal.com  and click signup button and choose "Business" option 
