@@ -1,3 +1,2 @@
-#How to integrate paypal
+#How to integrate paypal in PHP
 Ref URL: https://www.youtube.com/watch?v=u-iifIysIDA
-got to developer.paypal.com  and click signup button and choose "Business" option 
